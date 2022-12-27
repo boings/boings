@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @boings
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kris Holmquist
+- 👀 I’m interested in programming with data.
+- 🌱 I’m currently learning Django!
+- 💞️ I’m looking to collaborate on fun projects.
+- 📫 How to reach me freakflak@gmail.com
 
 <!---
 boings/boings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
