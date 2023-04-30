@@ -3,7 +3,7 @@ I'm a programmer with a passion for working with data. Currently, I'm focused on
 
 ## 🌱 What I'm currently learning
 * Django
-* 
+* Scikit-Learn/TensorFlow
 👀 What I'm interested in
 * Data programming
 * Web development
