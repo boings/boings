@@ -2,6 +2,7 @@
 I'm a software engineer with a passion for building innovative and efficient software solutions. I'm particularly interested in programming with data, including machine learning applications, and I enjoy using technology to solve complex problems in a creative and effective way.
 
 ## 🌱 What I'm currently learning
+* Android App Development
 * Django
 * Scikit-Learn/TensorFlow
 
